@@ -1,10 +1,13 @@
 body {
     margin: 10px 10px 10px 10px;
+    background-color: #f7fdc1;
 }
 
 h1{
     text-align: center;
-    margin: 50px 0px 50px 0px;
+    margin: 50px 0px 75px 0px;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
@@ -27,11 +30,12 @@ h3 {
     float: right;
     margin: 0;
     border: black 1px solid;
-    width: 33.33%;
+    width: 40%;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
     border-top:none;
     border-right: none;
+    font-family: Arial, Helvetica, sans-serif;
 }
  .chicken{
      background-color: pink;
@@ -46,10 +50,10 @@ h3 {
 p{
     clear: both;
     padding: 15px;
+    font-family: "Comic Sans MS", cursive, sans-serif
 }
 
-p,h3 {
-    font-family: Arial, Helvetica, sans-serif;
+h3 {
 }
 
 @media (min-width: 922px){
