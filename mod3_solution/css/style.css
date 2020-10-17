@@ -39,3 +39,6 @@ button{
 .nav-link a {
     color: black;
 }
+.navbar-brand {
+    font-size: 2em;
+}
